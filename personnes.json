@@ -1,0 +1,18 @@
+{"personnes":
+	[
+		{
+    		"personId":1,
+    		"personLastName":"rekla",
+    		"personFirstName":"Abderrahim",
+    		"personPhoneNumber":"8667",
+    		"password":"alteca1"
+		},
+		{
+  		 "personId":2,
+  		 "personLastName":"Benkhallouf",
+  		 "personFirstName":"yassine",
+   		 "personPhoneNumber":"5855",
+   		 "password":"alteca123456"
+		}
+	]
+}
